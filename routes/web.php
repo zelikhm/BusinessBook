@@ -17,7 +17,7 @@ use Inertia\Inertia;
 */
 
 Route::get('/', function () {
-    dd("HELLO");
+    dd("HELLO WORLD");
 });
 
 Route::get('/dashboard', function () {
